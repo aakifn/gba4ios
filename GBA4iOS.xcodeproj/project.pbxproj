@@ -3003,7 +3003,7 @@
 					"-all_load",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "${BUNDLE_ID}";
+				PRODUCT_BUNDLE_IDENTIFIER = com.nixfifty.GBA4iOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
@@ -3198,7 +3198,7 @@
 					"-all_load",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "${BUNDLE_ID}";
+				PRODUCT_BUNDLE_IDENTIFIER = com.nixfifty.GBA4iOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
@@ -3513,7 +3513,7 @@
 					"-all_load",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "${BUNDLE_ID}";
+				PRODUCT_BUNDLE_IDENTIFIER = com.nixfifty.GBA4iOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
@@ -3552,7 +3552,7 @@
 					"-all_load",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "${BUNDLE_ID}";
+				PRODUCT_BUNDLE_IDENTIFIER = com.nixfifty.GBA4iOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
@@ -3706,7 +3706,7 @@
 					"-all_load",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "${BUNDLE_ID}";
+				PRODUCT_BUNDLE_IDENTIFIER = com.nixfifty.GBA4iOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
