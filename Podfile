@@ -10,4 +10,4 @@ pod 'RSTWebViewController', :git => 'https://github.com/rileytestut/RSTWebViewCo
 pod "AFNetworking"
 pod "PSPDFTextView", :git => 'https://github.com/steipete/PSPDFTextView.git'
 pod "Dropbox-iOS-SDK"
-pod "Crashlytics"
+pod "CrashlyticsFramework", "~> 2.1.0"
